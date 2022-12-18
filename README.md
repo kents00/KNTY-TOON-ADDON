@@ -12,7 +12,7 @@ A halftone toon shader is a type of NPR (non-photorealistic rendering) shader th
 
 ## What is this add-on used for?
 
-This addon is for individuals who enjoy non-realistic shaders that are 100% procedural, ready for character and landscape rendering, and ready for UV-textured characters. You can even use it to create your own advanced materials. This allows you to be much more creative with the appearance of your material. For the dots and line patterns, you can change the brightness, contrast, rotation, size, RGB offset, and RGB offset rotation. There are brightness, contrast, and scale options for the dither and noise nodes.
+This addon is for individuals who enjoy non-realistic shaders that are 100% procedural, ready for character and landscape rendering, and ready for UV-textured characters. You can even use it to create your own advanced materials.
 
 #### NOTE
 
