@@ -42,6 +42,7 @@ To install this add-on in Blender, follow these steps:
 The add-on will now be installed and will appear in the list of available add-ons. To enable the add-on, locate it in the list and click the checkbox next to its name.
 You can also install an add-on by clicking the "Install from File" button in the "Add-ons" tab of the Preferences window and selecting the add-on file from the file browser.
 
+![Installation](https://user-images.githubusercontent.com/69900896/208357004-591a9afb-9adc-4a53-98e2-95e4ce245e3b.gif)
 
 
 
